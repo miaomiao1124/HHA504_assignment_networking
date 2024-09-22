@@ -1,5 +1,5 @@
 # HHA504_assignment_networking
-HHA504  assignment for networking
+
 #GCP
 ![1](https://github.com/miaomiao1124/HHA504_assignment_networking/blob/main/1.png)
 ![2]（https://github.com/miaomiao1124/HHA504_assignment_networking/blob/main/2.png）
